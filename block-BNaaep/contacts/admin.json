@@ -1,0 +1,7 @@
+{
+  "name": "Admin Json",
+  "email": "admin@gmail.com",
+  "username": "Admin",
+  "age": 26,
+  "about": "Backend Node Developer"
+}
